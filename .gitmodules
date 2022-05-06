@@ -1,0 +1,12 @@
+[submodule "E-commerce"]
+	path = E-commerce
+	url = https://github.com/MohamedFouadIbrahim/E-commerce.git
+[submodule "Zabehaty"]
+	path = Zabehaty
+	url = https://github.com/MohamedFouadIbrahim/Zabehaty.git
+[submodule "Allayan"]
+	path = Allayan
+	url = https://github.com/MohamedFouadIbrahim/Allayan.git
+[submodule "YFitness"]
+	path = YFitness
+	url = https://github.com/MohamedFouadIbrahim/YFitness.git
